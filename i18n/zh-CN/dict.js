@@ -9,7 +9,7 @@ module.exports = {
     },
     education_type: {
         "undergraduate": "（本科）",
-        "graduate":" (硕士) "
+        "graduate":" (硕士2018毕业) "
     },
     link_type: {
         "zhihu": "知乎",

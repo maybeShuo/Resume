@@ -59,33 +59,7 @@
       "能够阅读英文技术文档"
     ]
   }],
-  "experience": [ {
-    "type": "internship",
-    "techtype": "前端开发",
-    "place": "南京一可米互联网有限公司",
-    "start": "2016-10",
-    "end": "至今",
-    "name": "前端开发",
-    "description": [
-      "负责完成 `Course+` 项目的前端部分",
-      "参与公司求资料项目微信移动端开发",
-      "负责产品 Web 端 bug 修复"
-    ],
-    "stack": ["Course+", "前端", "微信端"]
-  }, {
-    "type": "internship",
-    "techtype": "前端开发",
-    "place": "南京SAP创新中心",
-    "start": "2016-4",
-    "end": "2016-10",
-    "name": "前端开发",
-    "description": [
-      "参与公司交通实时监控产品后台管理系统页面开发。",
-      "参与开发 `leaflet` 和 `d3` 相关的公交地图 Web 小工具",
-      "参加公司前端培训"
-    ],
-    "stack": []
-  },
+  "experience": [
   {
     "type": "project",
     "techtype": "JavaScript & React",
@@ -141,6 +115,34 @@
       "页面的数据获取和数据展示"
     ],
     "stack": []
+  },
+  {
+    "type": "internship",
+    "techtype": "前端开发",
+    "place": "南京一可米互联网有限公司",
+    "start": "2016-10",
+    "end": "至今",
+    "name": "前端开发",
+    "description": [
+      "负责公司前端开发",
+      "负责完成 `Course+` 项目的前端部分",
+      "参与公司求资料项目微信移动端开发",
+      "负责产品 Web 端 bug 修复"
+    ],
+    "stack": ["Course+", "前端", "微信端"]
+  }, {
+    "type": "internship",
+    "techtype": "前端开发",
+    "place": "南京SAP创新中心",
+    "start": "2016-4",
+    "end": "2016-10",
+    "name": "前端开发",
+    "description": [
+      "参与公司交通实时监控产品后台管理系统页面开发。",
+      "参与开发 `leaflet` 和 `d3` 相关的公交地图 Web 小工具",
+      "参加公司前端培训"
+    ],
+    "stack": []
   }],
   "skills": [{
     "type": "frontend",
@@ -166,7 +168,8 @@
       "description": [
         "熟练使用 `git` 基本命令，了解 git 开发流程",
         "熟练使用开发 IDE `atom` 及其各种插件",
-        "熟练使用 `chrome` 开发工具进行调试"
+        "熟练使用 `chrome` 开发工具进行前端调试",
+        "熟悉 `markdown` 语法"
         ]
     }]
   }]
