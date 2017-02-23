@@ -42,6 +42,6 @@ module.exports = {
     },
     project_type: {
         "personal": "个人项目",
-        "team": "创业项目"
+        "team": "团队项目"
     }
 };

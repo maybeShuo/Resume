@@ -48,7 +48,7 @@
     "certificate": [{
       "type": "CET-4",
       "full": "750",
-      "score": "565"
+      "score": "560"
     }, {
       "type": "CET-6",
       "full": "750",
@@ -68,7 +68,7 @@
     "name": "前端开发",
     "description": [
       "负责完成 `Course+` 项目的前端部分",
-      "参与公司求资料项目微信端开发",
+      "参与公司求资料项目微信移动端开发",
       "负责产品 Web 端 bug 修复"
     ],
     "stack": ["Course+", "前端", "微信端"]
@@ -110,8 +110,8 @@
     "description": [
       "`前后端分离`, 20天`独立开发`网站前端部分",
       "使用 `react` 和 `less` 开发页面组件",
+      "静态资源 `assets` 打包压缩, 第三方库合并 `vendor`",
       "使用 `webpack` 和 `gulp` 搭建开发环境，生产环境使用哈希进行版本控制",
-      "使用 `postcss` 处理 `css` 兼容性问题",
       "前端支付部分接入第三方插件 `Ping++`"
     ],
     "stack": ["前后端分离", "独立开发", "react"]
@@ -120,11 +120,12 @@
     "techtype": "JavaScript",
     "project_type": "team",
     "name": "Course+(新版)",
-    "source": "https://github.com/maybeShuo/react-redux-boilerplate",
+    "source": "https://github.com/maybeShuo/courseplus-v2",
     "description": [
       "规范前端使用 `git` 开发流程",
-      "使用 `webpack`, `gulp` 等前端工具搭建网站前端开发环境  ",
+      "使用 `webpack`, `gulp` 等前端工具搭建网站前端开发环境",
       "使用 `react`, `redux` 和 `react-router` 搭建页面框架",
+      "根据 router 实现各路由页面静态资源的`按需加载`",
       "参与页面具体`组件`的开发"
     ],
     "stack": []
@@ -132,9 +133,9 @@
     "type": "project",
     "techtype": "JavaScript",
     "project_type": "team",
-    "name": "米盒求资料",
+    "name": "米盒求资料(微信移动端)",
     "description": [
-      "学生`创业项目`，`微信端`的开发",
+      "学生`创业项目`，`微信移动端`的开发",
       "与产品和设计明确各个需求的流程",
       "与后台对接`微信支付`逻辑",
       "页面的数据获取和数据展示"
@@ -146,26 +147,26 @@
     "item": [{
       "summary": "`语言`",
       "description": [
-        "理解 `JavaScript` 基本语法",
-        "使用 `less` 编写 `css` 代码，熟悉 `less` 的嵌套和变量特性",
+        "熟悉 `JavaScript` 基本用法",
+        "熟练使用 `less` 和 `css` ",
         "了解 `es6` 基本语法以及编译工具",
-        "了解 `node.js`，熟练使用npm搭建前端项目开发环境"
+        "熟练使用 `webpack` 、`gulp` 、`babel` 等前端构建工具搭建开发环境",
+        "了解 `node.js`，熟练使用 `npm` 搭建前端项目开发环境"
         ]
     },{
-      "summary": "`前端框架`",
+      "summary": "`框架`",
       "description": [
-        "使用 `react` 编写 Web 应用, 了解 `react-router` 使用方法",
-        "了解 `redux` 基本思想，在实际项目中尝试使用过 `redux` ",
-        "在实际项目中使用 `ant-design` 开发组件",
-        "了解 `pubsub.js` ，在项目中使用解决 react 子组件通信问题"
+        "使用 `react` 和 `react-router` 开发 Web 应用",
+        "了解 `redux` 基本思想，在实际项目中使用过 `redux` ",
+        "使用 `ant-design` 开发组件",
+        "使用 `struts+spring+hibernate` 开发过 `j2ee` 项目 "
         ]
     },{
-      "summary": "`前端工具`",
+      "summary": "`工具`",
       "description": [
         "熟练使用 `git` 基本命令，了解 git 开发流程",
-        "熟练使用开发IDE `atom` 及其各种插件",
-        "熟练使用 `chrome` 开发工具进行调试",
-        "熟练使用 `webpack` 、`gulp` 、`babel` 等前端工具搭建开发环境"
+        "熟练使用开发 IDE `atom` 及其各种插件",
+        "熟练使用 `chrome` 开发工具进行调试"
         ]
     }]
   }]
