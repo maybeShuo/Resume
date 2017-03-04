@@ -66,6 +66,7 @@
     "project_type": "personal",
     "name": "netease-music-react",
     "source": "https://github.com/maybeShuo/netease-music-react",
+    "demo": "http://cszone.cn/apps/netease-music-react/",
     "description": [
       "一款仿网易云音乐的`单页面应用` Webapp",
       "使用 `react` 和 `es6` 开发，`babel` 编译",
@@ -78,7 +79,7 @@
     "type": "project",
     "techtype": "JavaScript",
     "project_type": "personal",
-    "name": "Course+(旧版)",
+    "name": "米盒Course+(http://courseplus.cn)",
     "source": "https://github.com/maybeShuo/courseplus-front-end",
     "demo": "http://courseplus.cn",
     "description": [
@@ -93,13 +94,12 @@
     "type": "project",
     "techtype": "JavaScript",
     "project_type": "team",
-    "name": "Course+(新版)",
+    "name": "米盒Course+(新版)",
     "source": "https://github.com/maybeShuo/courseplus-v2",
     "description": [
       "规范前端使用 `git` 开发流程",
-      "使用 `webpack`, `gulp` 等前端工具搭建网站前端开发环境",
+      "使用 `webpack`, `gulp` 等前端工具搭建网站前端开发环境，结合 router 实现各路由页面静态资源的`按需加载`",
       "使用 `react`, `redux` 和 `react-router` 搭建页面框架",
-      "根据 router 实现各路由页面静态资源的`按需加载`",
       "参与页面具体`组件`的开发"
     ],
     "stack": []
