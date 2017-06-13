@@ -60,6 +60,48 @@
     ]
   }],
   "experience": [
+      {
+        "type": "internship",
+        "techtype": "前端开发",
+        "place": "杭州网易游戏盘古游戏部",
+        "start": "2017-4",
+        "end": "至今",
+        "name": "前端开发",
+        "description": [
+          "负责游戏官网前端维护",
+          "负责游戏产品专题页开发",
+          "参与部门内部工具开发"
+        ],
+        "stack": ["网易游戏", "前端"]
+    },
+      {
+        "type": "internship",
+        "techtype": "前端开发",
+        "place": "南京一可米互联网有限公司",
+        "start": "2016-10",
+        "end": "2017-2",
+        "name": "前端开发",
+        "description": [
+          "负责公司前端开发",
+          "负责完成 `Course+` 项目的前端部分",
+          "参与公司求资料项目微信移动端开发",
+          "负责产品 Web 端 bug 修复"
+        ],
+        "stack": ["Course+", "前端", "微信端"]
+      }, {
+        "type": "internship",
+        "techtype": "前端开发",
+        "place": "南京SAP创新中心",
+        "start": "2016-4",
+        "end": "2016-10",
+        "name": "前端开发",
+        "description": [
+          "参与公司交通实时监控产品后台管理系统页面开发。",
+          "参与开发 `leaflet` 和 `d3` 相关的公交地图 Web 小工具",
+          "参加公司前端培训"
+        ],
+        "stack": []
+    },
   {
     "type": "project",
     "techtype": "JavaScript & React",
@@ -79,13 +121,11 @@
     "type": "project",
     "techtype": "JavaScript",
     "project_type": "personal",
-    "name": "米盒Course+(http://courseplus.cn)",
+    "name": "米盒Course+(旧版)",
     "source": "https://github.com/maybeShuo/courseplus-front-end",
-    "demo": "http://courseplus.cn",
     "description": [
       "`前后端分离`, 20天`独立开发`网站前端部分",
       "使用 `react` 和 `less` 开发页面组件",
-      "静态资源 `assets` 打包压缩, 第三方库合并 `vendor`",
       "使用 `webpack` 和 `gulp` 搭建开发环境，生产环境使用哈希进行版本控制",
       "前端支付部分接入第三方插件 `Ping++`"
     ],
@@ -101,46 +141,6 @@
       "使用 `webpack`, `gulp` 等前端工具搭建网站前端开发环境，结合 router 实现各路由页面静态资源的`按需加载`",
       "使用 `react`, `redux` 和 `react-router` 搭建页面框架",
       "参与页面具体`组件`的开发"
-    ],
-    "stack": []
-  },{
-    "type": "project",
-    "techtype": "JavaScript",
-    "project_type": "team",
-    "name": "米盒求资料(微信移动端)",
-    "description": [
-      "学生`创业项目`，`微信移动端`的开发",
-      "与产品和设计明确各个需求的流程",
-      "与后台对接`微信支付`逻辑",
-      "页面的数据获取和数据展示"
-    ],
-    "stack": []
-  },
-  {
-    "type": "internship",
-    "techtype": "前端开发",
-    "place": "南京一可米互联网有限公司",
-    "start": "2016-10",
-    "end": "至今",
-    "name": "前端开发",
-    "description": [
-      "负责公司前端开发",
-      "负责完成 `Course+` 项目的前端部分",
-      "参与公司求资料项目微信移动端开发",
-      "负责产品 Web 端 bug 修复"
-    ],
-    "stack": ["Course+", "前端", "微信端"]
-  }, {
-    "type": "internship",
-    "techtype": "前端开发",
-    "place": "南京SAP创新中心",
-    "start": "2016-4",
-    "end": "2016-10",
-    "name": "前端开发",
-    "description": [
-      "参与公司交通实时监控产品后台管理系统页面开发。",
-      "参与开发 `leaflet` 和 `d3` 相关的公交地图 Web 小工具",
-      "参加公司前端培训"
     ],
     "stack": []
   }],
